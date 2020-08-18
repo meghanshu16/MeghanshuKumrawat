@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Meghanshu kumrawat</h1>
 <h3 align="center">Hi there, I'm Meghanshu Kumrawat, a Bioinformatics student 🚀 from Madhya Pradesh, India, currently, I'm a Python developer.👨🏽‍💼.</h3>
 
