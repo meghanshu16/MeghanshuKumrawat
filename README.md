@@ -1,17 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Meghanshu kumrawat</h1>
-<h3 align="center">Hi there, I'm Meghanshu Kumrawat, a Bioinformatics student 🚀 from Madhya Pradesh, India, currently, I'm a Python developer.👨🏽‍💼.</h3>
+<h3 align="center">Hi there, I'm Meghanshu Kumrawat, a Data Science student 🚀 from Madhya Pradesh, India, currently, I'm a Python developer.👨🏽‍💼.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghanshukumrawat" alt="meghanshukumrawat" /> </p>
 
-* 😊 Currently working, learning and growing my skillset in Gui interface development, competitive coding, data structures and algorithms.
+* 😊 Currently working, learning and growing my skillset in Machine Learning & Deep Learning, competitive coding, data structures and algorithms.
 * 👯 Open for collaborations in desktop application development and anything.
 * 🌱 Willing to contribute in opensource development projects.
 * 👍 Looking for opportunities to join as an intern/full time in Web development fields.
 * 💬 Ask me about anything
 * ⚡ Fun fact **i turn CHAI into code**
 * 📫 How to reach me: [My email address](meghanshukumrawat321@gmail.com)
-* 📝 See my [Instagram Page](https://www.instagram.com/python_programmers_hub) 
 * 👨‍💻 All of my projects are available at [Github](https://github.com/MeghanshuKumrawat)
 
 
