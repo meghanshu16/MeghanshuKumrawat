@@ -7,7 +7,7 @@
 * 😊 Currently working, learning and growing my skillset in Machine Learning & Deep Learning, competitive coding, data structures and algorithms.
 * 👯 Open for collaborations in desktop application development and anything.
 * 🌱 Willing to contribute in opensource development projects.
-* 👍 Looking for opportunities to join as an intern/full time in Web development fields.
+* 👍 Looking for opportunities to join as an intern/full time in Development/Analysis fields.
 * 💬 Ask me about anything
 * ⚡ Fun fact **i turn CHAI into code**
 * 📫 How to reach me: [My email address](meghanshukumrawat321@gmail.com)
